@@ -1,0 +1,3 @@
+Account Created on :26/06/2021 00:41:10
+SELL AAPL 5 units Price  : 133.89 Date & Time : 26/06/2021 00:43:30
+BUY AAPL 7 units Price  : 133.89 Date & Time : 26/06/2021 00:44:07

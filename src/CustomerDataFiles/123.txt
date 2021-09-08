@@ -1,0 +1,8 @@
+Account Created on :11/06/2021 01:23:11
+BUY AAPL 23 units Price  : 127.44 Date & Time : 12/06/2021 04:24:07
+BUY AAPL 50 units Price  : 127.44 Date & Time : 12/06/2021 11:47:56
+SELL GOOG 10 units Price  : 2526.99 Date & Time : 12/06/2021 11:48:28
+BUY AAPL 200 units Price  : 127.44 Date & Time : 12/06/2021 11:49:27
+SELL AAPL 300 units Price  : 127.44 Date & Time : 12/06/2021 11:50:06
+SELL AAPL 74 units Price  : 127.44 Date & Time : 12/06/2021 11:50:20
+BUY AAPL 200 units Price  : 127.44 Date & Time : 12/06/2021 20:16:45

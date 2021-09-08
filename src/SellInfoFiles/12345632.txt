@@ -1,0 +1,4 @@
+AAPL 20 units Price  : 127.44 Date & Time : 13/06/2021 00:10:51
+AAPL 60 units Price  : 127.44 Date & Time : 13/06/2021 00:26:06
+GOOG 90 units Price  : 2526.99 Date & Time : 13/06/2021 10:40:52
+GOOG 15 units Price  : 2537.24 Date & Time : 15/06/2021 19:04:07
